@@ -4,3 +4,5 @@ This is a test file for cohort 8. The expectation is that at the end of this lec
 3. Open a repository
 4. Push our code from the local rpository to the remote repository
    We are adding a new line to the file
+I can't believe how annoying codes can be
+
